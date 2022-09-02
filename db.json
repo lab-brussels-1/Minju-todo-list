@@ -1,16 +1,24 @@
 {
   "todos": [
     {
-      "id" : 1,
-      "title" : "learn react",
-      "completed" :  false
-
+      "id": 1,
+      "title": "learn react",
+      "completed": false
     },
     {
-      "id" : 2,
-      "title" : "go to doctor",
-      "completed" :  false
-
+      "id": 2,
+      "title": "go to doctor",
+      "completed": false
+    },
+    {
+      "title": "hi",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "wow",
+      "completed": false,
+      "id": 4
     }
   ]
 }
